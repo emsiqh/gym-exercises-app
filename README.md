@@ -4,7 +4,7 @@
 
 # Overview: 
 ## Search exercise:
-![3](https://user-images.githubusercontent.com/75169577/192089818-d8fa420a-c409-4924-8f8b-8eed312ec13f.png)
+![5](https://user-images.githubusercontent.com/75169577/192089919-7d839e03-4894-4709-a167-555b3ecf62ed.png)
 
 ## Pagination:
 ![4](https://user-images.githubusercontent.com/75169577/192089828-fb6a470b-78dc-474d-808e-01360bb29d11.png)
