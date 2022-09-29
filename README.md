@@ -8,3 +8,9 @@
 
 ## Pagination
 ![4](https://user-images.githubusercontent.com/75169577/192089828-fb6a470b-78dc-474d-808e-01360bb29d11.png)
+
+## Exercise Detail
+![6](https://user-images.githubusercontent.com/75169577/193065111-27a7c888-0fe0-44cc-a04a-fead10950007.png)
+
+## Related Videos by using Youtube Search and Download API (Rapid API)
+![7](https://user-images.githubusercontent.com/75169577/193065966-a16ec829-4ae0-48e5-80b4-6d77461cdd83.png)
